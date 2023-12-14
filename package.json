@@ -1,0 +1,7 @@
+{
+  "name": "wallpaper_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mostafa-Y-Mansour/wallpaper_app.git",
+  "license": "MIT"
+}
